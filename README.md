@@ -1,4 +1,4 @@
-# Blog-Classification-Staistical-NLP
+# Blog-Classification-Statistical-NLP
 NLP Classifier using input Blog text parameters to determine label/s of of the blog
 
 DOMAIN: Digital content management
